@@ -13,7 +13,7 @@
 // limitations under the License.
 //
 #include "draco/io/parser_utils.h"
-
+#include <limits>
 #include <algorithm>
 #include <cctype>
 #include <cmath>
